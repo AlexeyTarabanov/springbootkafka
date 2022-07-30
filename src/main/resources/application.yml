@@ -1,0 +1,3 @@
+scheduler:
+  intervalMs: 5000L
+
